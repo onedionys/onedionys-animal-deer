@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-animal-deer",
+  "version": "1.0.0",
+  "description": "One Dionys (Animal Deer) - Function to display the name of the Deer animal and only one animal name is displayed.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-animal-deer.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "animal-deer"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-animal-deer/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-animal-deer#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
