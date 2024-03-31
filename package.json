@@ -1,6 +1,6 @@
 {
   "name": "onedionys-animal-deer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Animal Deer) - Function to display the name of the Deer animal and only one animal name is displayed.",
   "main": "src/index.js",
   "directories": {
